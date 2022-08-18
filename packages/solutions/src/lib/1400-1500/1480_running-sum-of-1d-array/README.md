@@ -4,9 +4,9 @@ https://leetcode.com/problems/running-sum-of-1d-array/
 
 ## Problem
 
-Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]). <br /><br />s
+Given an array `nums`. We define a running sum of an array as `runningSum[i] = sum(nums[0]…nums[i])`. <br />
 
-Return the running sum of nums.
+Return the running sum of `nums`.
 
 ### Example 1:
 
@@ -27,5 +27,5 @@ Return the running sum of nums.
 
 ### Constraints:
 
-1 <= nums.length <= 1000
--10^6 <= nums[i] <= 10^6
+- `1 <= nums.length <= 1000`
+- `-10^6 <= nums[i] <= 10^6`
