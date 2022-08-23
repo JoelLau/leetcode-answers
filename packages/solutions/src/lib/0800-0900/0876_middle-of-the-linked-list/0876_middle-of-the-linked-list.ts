@@ -1,4 +1,4 @@
-import { ListNode } from './utilities';
+import { ListNode } from '@joellau/shared/utilities';
 
 /**
  * Definition for singly-linked list.

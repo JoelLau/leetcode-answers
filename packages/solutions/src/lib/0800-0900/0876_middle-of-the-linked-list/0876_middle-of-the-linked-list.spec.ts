@@ -1,5 +1,8 @@
 import { middleNode } from './0876_middle-of-the-linked-list';
-import { ListNode, listNodeToNumbers, numbersToListNodes } from './utilities';
+import {
+  listNodeToNumbers,
+  numbersToListNodes,
+} from '@joellau/shared/utilities';
 
 /**
  * # 876. Middle of the Linked List

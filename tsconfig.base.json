@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@joellau/shared/utilities": ["packages/shared/utilities/src/index.ts"],
       "@joellau/solutions": ["packages/solutions/src/index.ts"]
     }
   },
