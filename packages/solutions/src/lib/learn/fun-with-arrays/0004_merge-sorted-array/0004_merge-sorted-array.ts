@@ -1,0 +1,15 @@
+/**
+ Do not return anything, modify nums1 in-place instead.
+ */
+export function merge(
+  nums1: number[],
+  m: number,
+  nums2: number[],
+  n: number
+): void {
+  console.log(nums1);
+  console.log(m);
+  console.log(nums2);
+  console.log(n);
+  return;
+}
